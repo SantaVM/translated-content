@@ -1,8 +1,7 @@
 ---
 title: HTMLShadowElement.getDistributedNodes()
-slug: Web/API/HTMLShadowElement/getDistributedNodes
-l10n:
-  sourceCommit: 387d0d4d8690c0d2c9db1b85eae28ffea0f3ac1f
+slug: orphaned/Web/API/HTMLShadowElement/getDistributedNodes
+original_slug: Web/API/HTMLShadowElement/getDistributedNodes
 ---
 
 {{APIRef("Web Components")}}{{Deprecated_Header}}{{Non-standard_Header}}

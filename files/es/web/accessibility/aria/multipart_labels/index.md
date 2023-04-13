@@ -1,8 +1,9 @@
 ---
-title: 'Etiquetas complejas: Utilizando ARIA para etiquetas con campos embebidos dentro
-  de ellos'
-slug: Web/Accessibility/ARIA/forms/Multipart_labels
-original_slug: Web/Accessibility/ARIA/forms/Etiquetas_complejas
+title: >-
+  Etiquetas complejas: Utilizando ARIA para etiquetas con campos embebidos
+  dentro de ellos
+slug: Web/Accessibility/ARIA/Multipart_labels
+original_slug: Web/Accessibility/ARIA/forms/Multipart_labels
 ---
 
 ## Problema

@@ -1,7 +1,7 @@
 ---
 title: <content>
-slug: Web/HTML/Element/content
-original_slug: Web/HTML/Elemento/content
+slug: conflicting/Web/HTML/Element/slot
+original_slug: Web/HTML/Element/content
 ---
 
 {{Deprecated_header}}

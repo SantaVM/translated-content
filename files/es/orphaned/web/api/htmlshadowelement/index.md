@@ -1,8 +1,7 @@
 ---
 title: HTMLShadowElement
-slug: Web/API/HTMLShadowElement
-l10n:
-  sourceCommit: 387d0d4d8690c0d2c9db1b85eae28ffea0f3ac1f
+slug: orphaned/Web/API/HTMLShadowElement
+original_slug: Web/API/HTMLShadowElement
 ---
 
 {{APIRef("Web Components")}}{{Deprecated_Header}}{{Non-standard_Header}}
